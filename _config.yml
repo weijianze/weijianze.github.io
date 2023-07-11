@@ -9,7 +9,7 @@
 title                    : "Jianze Wei"
 description              : "The Personal Academic Website of Jianze Wei. "
 repository               : "weijianze/weijianze.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : 28LpcfIAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jianze Wei (卫建泽)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Assistant Professor, Institute of Microelectronics, Chinese Academy of Sciences"
+  bio              : "Assistant Professor, IMECAS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

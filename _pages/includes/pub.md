@@ -1,5 +1,6 @@
 
 # 📝 Publications 
+
 ## Domain adaptation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -7,6 +8,16 @@
 ``ICME 2018`` [Learning Discriminative Geodesic Flow Kernel for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8486446)
 
 **Jianze Wei**, Jian Liang, Ran He, Jinfeng Yang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJP 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+``AJP 2021`` [and Obsessive-Compulsive Disorder Based on Machine Learning From a Primate Genetic Model](https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2020.19101091)
+
+Yafeng Zhan, **Jianze Wei**, Jian Liang, Xiu Xu, Ran He, Trevor W Robbins, Zheng Wang
 
 </div>
 </div>
@@ -33,6 +44,7 @@ Jinfeng Yang, **Jianze Wei**, Yihua Shi
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCB 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

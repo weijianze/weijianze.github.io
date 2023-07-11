@@ -1,6 +1,22 @@
 # STILL BUILDING!!
 
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+{% include_relative includes/intro.md %}
+
+google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/weijianze/weijianze.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+
+
+
+
 I work at [Institute of Microelectronics, Chinese Academy of Sciences](http://www.ime.cas.cn/)<img src='./images/tiktok.png' style='width: 6em;'> as an Assistant Professor now in Beijing, China. If you are seeking any form of **academic cooperation**, please feel free to email me at [weijianze@ime.ac.cn](mailto:weijianze@ime.ac.cn).
 
 

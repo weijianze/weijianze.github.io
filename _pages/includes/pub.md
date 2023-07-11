@@ -7,7 +7,10 @@
 
 ``ICME 2018`` [Learning Discriminative Geodesic Flow Kernel for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8486446)  
 **Jianze Wei**, Jian Liang, Ran He, Jinfeng Yang  
-``Domain adaptation`` ``Psuedo labels``
+``Domain adaptation`` ``Psuedo labels``  
+
+<img src="https://img.shields.io/badge/Domain%20Adaptation-blue">
+<img src="https://img.shields.io/badge/Psuedo%20Labels-yellow">
 
 </div>
 </div>

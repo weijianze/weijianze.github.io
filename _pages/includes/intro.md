@@ -16,4 +16,4 @@ I obtained his Ph.D. degree from the University of Chinese Academy of Sciences u
 
 
 My research interest includes biometrics, spiking neural networks, and brain-like intelligence.
-I have published ?? papers  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
+I have published 8 papers  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 

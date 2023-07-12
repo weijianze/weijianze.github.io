@@ -3,7 +3,7 @@
 
 
 ## Biometric recognition
-### Iris recognition
+### :eyes: Iris recognition
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/pub/TIFS2022_CM.png' alt="sym" width="100%"></div></div>

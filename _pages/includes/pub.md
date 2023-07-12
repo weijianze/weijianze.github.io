@@ -42,7 +42,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2021</div><img src='images/pub/TCSVT2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-Spectral Iris Recognition by Learning Device-Specific Band](https://ieeexplore.ieee.org/abstract/document/9557317)
+[Cross-Spectral Iris Recognition by Learning Device-Specific Band](https://ieeexplore.ieee.org/abstract/document/9557317) ```IF:8.4```
 
 **Jianze Wei**, Yunlong Wang, Yi Li, Ran He, Zhenan Sun, 
 
@@ -127,3 +127,6 @@ Yafeng Zhan, **Jianze Wei**, Jian Liang, Xiu Xu, Ran He, Trevor W Robbins, Zheng
 
 
 ## Image retrieval
+
+```TCSVT 2023, IF:8.4``` [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
+Xingyu Gao; Zhenyu Chen; Boshen Zhang; **Jianze Wei**

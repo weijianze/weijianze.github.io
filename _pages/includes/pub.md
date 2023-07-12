@@ -77,7 +77,7 @@
 [**Project**](https://github.com/weijianze/CUL) <img  style='height: 20px;' src="https://img.shields.io/github/stars/weijianze/CUL?style=social">
 
 - The **first** work for both unsupervised and semi-supervised iris recognition method.
-- <u>Summary</u>: the paper explores the uncertain acquisition factors and adopts a probabilistic embedding to represent the iris image, then it utilizes probabilistic embeddings to generate virtual positive and negative pairs. 
+- <u>Summary</u>: the paper explores the uncertain acquisition factors and adopts a probabilistic embedding to represent the iris image, then it utilizes this probabilistic representation to generate virtual positive and negative pairs. 
 
 </div>
 </div>

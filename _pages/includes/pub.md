@@ -67,7 +67,7 @@ Yafeng Zhan, **Jianze Wei**, Jian Liang, Xiu Xu, Ran He, Trevor W Robbins, Zheng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/pub/TIFS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/pub/TIFS2022_uncertainty.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors](https://ieeexplore.ieee.org/abstract/document/9722888)
@@ -77,7 +77,7 @@ Yafeng Zhan, **Jianze Wei**, Jian Liang, Xiu Xu, Ran He, Trevor W Robbins, Zheng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/TIFS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/TIFS2022_CM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Contextual Measures for Iris Recognition](https://ieeexplore.ieee.org/abstract/document/9947055)

@@ -24,6 +24,11 @@
 
 Yafeng Zhan, **Jianze Wei**, Jian Liang, Xiu Xu, Ran He, Trevor W Robbins, Zheng Wang
 
+- The paper develops a new group lasso method to search the share egg featurs between humans and monkeys for ASD diagnosis.
+- Academic Impact: ESI
+
+<https://www.cas.cn/syky/202006/t20200617_4750323.shtml>
+
 </div>
 </div>
 

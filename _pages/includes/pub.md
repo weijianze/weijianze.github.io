@@ -83,15 +83,8 @@
 </div>
 
 ### Fingervein recognition
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2019</div><img src='images/pub/Neuro2019.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+```Neurocomputing 2019, IF:5.7``` [Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub), Jinfeng Yang, **Jianze Wei**, Yihua Shi
 
-[Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub)
-
-Jinfeng Yang, **Jianze Wei**, Yihua Shi
-
-</div>
-</div>
 
 
 
@@ -113,7 +106,7 @@ Jinfeng Yang, **Jianze Wei**, Yihua Shi
 
 [Diagnostic Classification for Human Autism and Obsessive-Compulsive Disorder Based on Machine Learning From a Primate Genetic Model](https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2020.19101091) ``IF:17.7``
 
-Yafeng Zhan, **Jianze Wei**, Jian Liang, Xiu Xu, Ran He, Trevor W Robbins, Zheng Wang
+Yafeng Zhan, **Jianze Wei** (co-first), Jian Liang, Xiu Xu, Ran He, Trevor W Robbins, Zheng Wang
 
 - <u>Summary</u>: the paper develops a new group lasso method to search the share egg featurs between humans and monkeys for ASD diagnosis. Specifically, our method groups all connection features into 94 groups according to their connected brain regions. Then, a group lasso is employed and elaborately set to find the effective features. Finally, a classifier model trained on monkey data is leveraged to predict the diagnostic results of ASD.
 - <u>Academic Impact</u>: ESI Highly Cited Paper.

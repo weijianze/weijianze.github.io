@@ -81,7 +81,7 @@
 </div>
 
 
-- <img src="https://img.shields.io/badge/Neurocomputing%202019-IF%205.7-%20?style=flat-square&labelColor=00369F&color=lightgray
+- <img src="https://img.shields.io/badge/Neurocomputing%202019-IF%205.7-%20?style=flat-square&labelColor=00369F&color=ffffff
 "> [Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub), Jinfeng Yang, **Jianze Wei**, Yihua Shi  
 
 
@@ -114,7 +114,7 @@ Yafeng Zhan, **Jianze Wei** (co-first), Jian Liang, Xiu Xu, Ran He, Trevor W Rob
 
 ## Image retrieval
 
-- <img src="https://img.shields.io/badge/TCSVT%202023-IF%208.4-%20?style=flat-square&labelColor=00369F&color=lightgray
+- <img src="https://img.shields.io/badge/TCSVT%202023-IF%208.4-%20?style=flat-square&labelColor=00369F&color=ffffff
 "> [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
 Xingyu Gao; Zhenyu Chen; Boshen Zhang; **Jianze Wei**
 

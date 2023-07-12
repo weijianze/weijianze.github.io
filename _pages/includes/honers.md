@@ -1,3 +1,3 @@
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 - 北京市优秀毕业生

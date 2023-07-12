@@ -3,9 +3,6 @@
 
 
 ## Biometric recognition
-### <img src='images/icon/iris.png' style='height: 20px;'> Iris recognition
-
-:eyes: 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/pub/TIFS2022_CM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,8 +80,8 @@
 </div>
 </div>
 
-### <img src='images/icon/fingervein.png' style='height: 20px;'> Fingervein recognition
-- ```Neurocomputing 2019, IF:5.7``` [Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub), Jinfeng Yang, **Jianze Wei**, Yihua Shi
+
+```Neurocomputing 2019, IF:5.7``` [Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub), Jinfeng Yang, **Jianze Wei**, Yihua Shi
 
 
 
@@ -118,5 +115,5 @@ Yafeng Zhan, **Jianze Wei** (co-first), Jian Liang, Xiu Xu, Ran He, Trevor W Rob
 
 ## Image retrieval
 
-- ```TCSVT 2023, IF:8.4``` [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
+```TCSVT 2023, IF:8.4``` [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
 Xingyu Gao; Zhenyu Chen; Boshen Zhang; **Jianze Wei**

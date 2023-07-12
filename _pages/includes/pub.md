@@ -112,11 +112,10 @@ Jinfeng Yang, **Jianze Wei**, Yihua Shi
 <div class='paper-box-text' markdown="1">
 
 [Diagnostic Classification for Human Autism and Obsessive-Compulsive Disorder Based on Machine Learning From a Primate Genetic Model](https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2020.19101091) ``IF:17.7``
-<img src="https://img.shields.io/badge/IF-17.5-%20?labelColor=blue&color=yellow">
 
 Yafeng Zhan, **Jianze Wei**, Jian Liang, Xiu Xu, Ran He, Trevor W Robbins, Zheng Wang
 
-- The paper develops a new group lasso method to search the share egg featurs between humans and monkeys for ASD diagnosis.
+- <u>Summary</u>: the paper develops a new group lasso method to search the share egg featurs between humans and monkeys for ASD diagnosis. Specifically, our method groups all connection features into 94 groups according to their connected brain regions. Then, a group lasso is employed and elaborately set to find the effective features. Finally, a classifier model trained on monkey data is leveraged to predict the diagnostic results of ASD.
 - <u>Academic Impact</u>: ESI Highly Cited Paper.
 
 </div>

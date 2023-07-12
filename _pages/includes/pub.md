@@ -6,12 +6,16 @@
 ### Iris recognition
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/TIFS2022_CM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/pub/TIFS2022_CM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Contextual Measures for Iris Recognition](https://ieeexplore.ieee.org/abstract/document/9947055)
+``IF: 6.8``
 
-**Jianze Wei**, Yunlong Wang, Huaibo Huang, Ran He, Zhenan Sun, Xingyu Gao
+**Jianze Wei**, Yunlong Wang, Huaibo Huang, Ran He, Zhenan Sun, Xingyu Gao  
+- The first Transformer model for iris recognition.
+- <u>Summary</u>: the paper integrates the advantages of visual Transformer and CNN, and proposes contextual measures (CM). The proposed CM regards each iris region as a potential microstructure and models the correlations between them for iris recognition.
+
 
 </div>
 </div>
@@ -21,8 +25,12 @@
 <div class='paper-box-text' markdown="1">
 
 [Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors](https://ieeexplore.ieee.org/abstract/document/9722888)
+``IF: 6.8``
 
 **Jianze Wei**, Huaibo Huang, Yunlong Wang, Ran He, Zhenan Sun
+
+- <u>Summary</u>: the paper represents an iris image using a probabilistic distribution rather than a deterministic point (binary template or feature vector) that is widely adopted in iris recognition methods. 
+- <u>Extension</u>: the proposed representation augments input data in the feature level, and it is employed in *Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples*
 
 </div>
 </div>
@@ -35,6 +43,9 @@
 [Cross-Spectral Iris Recognition by Learning Device-Specific Band](https://ieeexplore.ieee.org/abstract/document/9557317)
 
 **Jianze Wei**, Yunlong Wang, Yi Li, Ran He, Zhenan Sun, 
+
+- <u>Summary</u>: the paper proposes a Gabor Trident Network (GTN) to narrow the distribution gap between near-infrared (NIR) and visible (VIS) images. GTN first utilizes the Gabor function’s priors to perceive iris textures under different spectra, and then codes the device-specific band as the residual component to assist the generation of spectral-invariant features.
+
 
 </div>
 </div>

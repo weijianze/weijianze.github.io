@@ -29,7 +29,7 @@
 
 [**Project**](https://github.com/weijianze/uncertainty) <img  style='height: 20px;' src="https://img.shields.io/github/stars/weijianze/uncertainty?style=social">
 
-- <u>Summary</u>: the paper represents an iris image using a probabilistic distribution rather than a deterministic point (binary template or feature vector) that is widely adopted in iris recognition methods. 
+- <u>Summary</u>: the paper represents an iris image using a **probabilistic distribution** rather than a deterministic point (binary template or feature vector) that is widely adopted in iris recognition methods. 
 - <u>Extension</u>: the proposed representation augments input data in the feature level, and it is employed in *Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples*
 
 </div>
@@ -74,7 +74,7 @@
 
 [**Project**](https://github.com/weijianze/CUL) <img  style='height: 20px;' src="https://img.shields.io/github/stars/weijianze/CUL?style=social">
 
-- The **first** work for both unsupervised and semi-supervised iris recognition method.
+- The **first** work for both **unsupervised and semi-supervised** iris recognition method.
 - <u>Summary</u>: the paper explores the uncertain acquisition factors and adopts a probabilistic embedding to represent the iris image, then it utilizes this probabilistic representation to generate virtual positive and negative pairs. 
 
 </div>

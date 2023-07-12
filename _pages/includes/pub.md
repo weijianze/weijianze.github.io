@@ -12,13 +12,15 @@
 <img src="https://img.shields.io/badge/Domain%20Adaptation-blue">
 <img src="https://img.shields.io/badge/Psuedo%20Labels-yellow">
 
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJP 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJP 2021 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ``AJP 2021`` [and Obsessive-Compulsive Disorder Based on Machine Learning From a Primate Genetic Model](https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2020.19101091)
+<img src="https://img.shields.io/badge/Impact factor-10.1-yellow">
 
 Yafeng Zhan, **Jianze Wei**, Jian Liang, Xiu Xu, Ran He, Trevor W Robbins, Zheng Wang
 

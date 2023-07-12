@@ -81,7 +81,7 @@
 </div>
 
 
-- <img src="https://img.shields.io/badge/Neurocomputing%202019-IF%205.7-%20?style=flat-square&labelColor=darkblue&color=lightgray
+- <img src="https://img.shields.io/badge/Neurocomputing%202019-IF%205.7-%20?style=flat-square&labelColor=00369F&color=lightgray
 "> [Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub), Jinfeng Yang, **Jianze Wei**, Yihua Shi  
 
 
@@ -114,17 +114,17 @@ Yafeng Zhan, **Jianze Wei** (co-first), Jian Liang, Xiu Xu, Ran He, Trevor W Rob
 
 ## Image retrieval
 
-- <img src="https://img.shields.io/badge/TCSVT%202023-IF%208.4-%20?style=flat-square&labelColor=darkblue&color=lightgray
+- <img src="https://img.shields.io/badge/TCSVT%202023-IF%208.4-%20?style=flat-square&labelColor=00369F&color=lightgray
 "> [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
 Xingyu Gao; Zhenyu Chen; Boshen Zhang; **Jianze Wei**
 
 
 
 ## 发明专利
-- <img src="https://img.shields.io/badge/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9-darkblue?style=flat-square
+- <img src="https://img.shields.io/badge/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9-00369F?style=flat-square
 "> 基于采集不确定性解耦的鲁棒虹膜识别方法，孙哲南; **卫建泽**; 王云龙
-- <img src="https://img.shields.io/badge/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9-darkblue?style=flat-square
+- <img src="https://img.shields.io/badge/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9-00369F?style=flat-square
 "> 基于设备独有性感知的异质虹膜识别方法，孙哲南; **卫建泽**; 王云龙
-- <img src="https://img.shields.io/badge/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9-darkblue?style=flat-square
+- <img src="https://img.shields.io/badge/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9-00369F?style=flat-square
 "> 基于Resize小波和SSLM模型的静脉识别方法，杨金锋; **卫建泽**; 师一华
 

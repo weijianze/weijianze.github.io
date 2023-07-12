@@ -82,10 +82,6 @@
 </div>
 </div>
 
-### Iris Segmentation
-
-
-
 ### Fingervein recognition
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2019</div><img src='images/pub/Neuro2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

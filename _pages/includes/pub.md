@@ -107,6 +107,7 @@ Jinfeng Yang, **Jianze Wei**, Yihua Shi
 
 **Jianze Wei**, Jian Liang, Ran He, Jinfeng Yang  
 
+- <u>Summary</u>: the paper extends the classic [geodesic flow kernel](https://ieeexplore.ieee.org/abstract/document/6247911) method by leveraging the pseudo labels during the training process to learn a discriminative geodesic flow kernel for unsupervised domain adaptation
 
 </div>
 </div>
@@ -128,5 +129,5 @@ Yafeng Zhan, **Jianze Wei**, Jian Liang, Xiu Xu, Ran He, Trevor W Robbins, Zheng
 
 ## Image retrieval
 
-```TCSVT 2023, IF:8.4``` [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
+- ```TCSVT 2023, IF:8.4``` [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
 Xingyu Gao; Zhenyu Chen; Boshen Zhang; **Jianze Wei**

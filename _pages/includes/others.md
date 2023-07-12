@@ -16,7 +16,3 @@
 # 💻 Internships
 - *2018.04 - 2018.06*, China Academy of Civil Aviation Science and Technology, Beijing.
 - *2017.03 - 2018.03*, Institute of Automation, Chinese Academy of Sciences, Beijing.
-
-
-
-# 🧑 Student

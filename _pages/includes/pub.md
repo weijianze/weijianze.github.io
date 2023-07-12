@@ -90,7 +90,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2019</div><img src='images/pub/Neuro2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-``Neurocomputing 2019`` [Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub)
+[Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub)
 
 Jinfeng Yang, **Jianze Wei**, Yihua Shi
 
@@ -103,12 +103,9 @@ Jinfeng Yang, **Jianze Wei**, Yihua Shi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-``ICME 2018`` [Learning Discriminative Geodesic Flow Kernel for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8486446)  
-**Jianze Wei**, Jian Liang, Ran He, Jinfeng Yang  
-``Domain adaptation`` ``Psuedo labels``  
+[Learning Discriminative Geodesic Flow Kernel for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8486446)  ```Oral```
 
-<img src="https://img.shields.io/badge/Domain%20Adaptation-blue">
-<img src="https://img.shields.io/badge/Psuedo%20Labels-yellow">
+**Jianze Wei**, Jian Liang, Ran He, Jinfeng Yang  
 
 
 </div>
@@ -123,7 +120,10 @@ Jinfeng Yang, **Jianze Wei**, Yihua Shi
 Yafeng Zhan, **Jianze Wei**, Jian Liang, Xiu Xu, Ran He, Trevor W Robbins, Zheng Wang
 
 - The paper develops a new group lasso method to search the share egg featurs between humans and monkeys for ASD diagnosis.
-- Academic Impact: ESI Highly Cited Paper.
+- <u>Academic Impact</u>: ESI Highly Cited Paper.
 
 </div>
 </div>
+
+
+## Image retrieval

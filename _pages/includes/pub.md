@@ -113,10 +113,7 @@ Yafeng Zhan, **Jianze Wei** (co-first), Jian Liang, Xiu Xu, Ran He, Trevor W Rob
 
 ## Image retrieval
 
-- <div class="badge">ICME 2018</div>
-```TCSVT 2023, IF:8.4``` 
-``TCSVT 2023, IF:8.4``
-[Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
+- <div class="badge">ICME 2018</div> [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
 Xingyu Gao; Zhenyu Chen; Boshen Zhang; **Jianze Wei**
 
 

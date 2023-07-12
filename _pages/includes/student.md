@@ -1,4 +1,4 @@
-# 🧑 Student
+# 🧑 Students
 
 
 <style>

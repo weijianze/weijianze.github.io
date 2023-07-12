@@ -82,8 +82,8 @@
 </div>
 </div>
 
-### Fingervein recognition
-```Neurocomputing 2019, IF:5.7``` [Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub), Jinfeng Yang, **Jianze Wei**, Yihua Shi
+### <img src='images/icon/fingervein.png' style='height: 20px;'> Fingervein recognition
+- ```Neurocomputing 2019, IF:5.7``` [Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub), Jinfeng Yang, **Jianze Wei**, Yihua Shi
 
 
 
@@ -96,7 +96,7 @@
 
 **Jianze Wei**, Jian Liang, Ran He, Jinfeng Yang  
 
-- <u>Summary</u>: the paper extends the classic [geodesic flow kernel](https://ieeexplore.ieee.org/abstract/document/6247911) method by leveraging the pseudo labels during the training process to learn a discriminative geodesic flow kernel for unsupervised domain adaptation
+- <u>Summary</u>: the paper extends the classic [geodesic flow kernel](https://ieeexplore.ieee.org/abstract/document/6247911) method by leveraging the pseudo labels during the training process to learn a discriminative geodesic flow kernel for unsupervised domain adaptation.
 
 </div>
 </div>

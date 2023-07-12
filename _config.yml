@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jianze Wei (卫建泽)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile/android-chrome-512x512.png"
   bio              : "Assistant Professor, IMECAS"
   location         : "Beijing, China"
   employer         :

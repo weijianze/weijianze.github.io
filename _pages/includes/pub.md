@@ -86,7 +86,7 @@
 
 
 ## Transfer learning
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2018</div><img src='images/pub/ICME2018.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Discriminative Geodesic Flow Kernel for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8486446)  ```CCF-B, Oral```

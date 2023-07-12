@@ -13,7 +13,7 @@
 ``IF: 6.8``
 
 **Jianze Wei**, Yunlong Wang, Huaibo Huang, Ran He, Zhenan Sun, Xingyu Gao  
-- The first Transformer model for iris recognition.
+- The **first** Transformer model for iris recognition.
 - <u>Summary</u>: the paper integrates the advantages of visual Transformer and CNN, and proposes contextual measures (CM). The proposed CM regards each iris region as a potential microstructure and models the correlations between them for iris recognition.
 
 
@@ -28,6 +28,8 @@
 ``IF: 6.8``
 
 **Jianze Wei**, Huaibo Huang, Yunlong Wang, Ran He, Zhenan Sun
+
+[**Project**](https://github.com/weijianze/uncertainty) <img  style='height: 20px;' src="https://img.shields.io/github/stars/weijianze/uncertainty?style=social">
 
 - <u>Summary</u>: the paper represents an iris image using a probabilistic distribution rather than a deterministic point (binary template or feature vector) that is widely adopted in iris recognition methods. 
 - <u>Extension</u>: the proposed representation augments input data in the feature level, and it is employed in *Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples*
@@ -44,6 +46,8 @@
 
 **Jianze Wei**, Yunlong Wang, Yi Li, Ran He, Zhenan Sun, 
 
+[**Project**](https://github.com/weijianze/CSINv2) <img  style='height: 20px;' src="https://img.shields.io/github/stars/weijianze/CSINv2?style=social">
+
 - <u>Summary</u>: the paper proposes a Gabor Trident Network (GTN) to narrow the distribution gap between near-infrared (NIR) and visible (VIS) images. GTN first utilizes the Gabor function’s priors to perceive iris textures under different spectra, and then codes the device-specific band as the residual component to assist the generation of spectral-invariant features.
 
 
@@ -57,7 +61,8 @@
 
 **Jianze Wei**, Yunlong Wang, Xiang Wu, Zhaofeng He, Ran He, Zhenan Sun
 
-- 
+- <u>Summary</u>: the paper propose Cross-sensor iris network (CSIN) by applying the adversarial strategy and weakening interference of sensor-specific information.
+
 </div>
 </div>
 
@@ -65,9 +70,14 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCB 2021</div><img src='images/pub/IJCB2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples](https://ieeexplore.ieee.org/abstract/document/9484388)``Oral``
+[Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples](https://ieeexplore.ieee.org/abstract/document/9484388) ``Oral``
 
 **Jianze Wei**, Ran He, Zhenan Sun
+
+[**Project**](https://github.com/weijianze/CUL) <img  style='height: 20px;' src="https://img.shields.io/github/stars/weijianze/CUL?style=social">
+
+- The **first** work for both unsupervised and semi-supervised iris recognition method.
+- <u>Summary</u>: the paper explores the uncertain acquisition factors and adopts a probabilistic embedding to represent the iris image, then it utilizes probabilistic embeddings to generate virtual positive and negative pairs. 
 
 </div>
 </div>

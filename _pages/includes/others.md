@@ -8,10 +8,16 @@
 
 ## 💬 Activities and services
 - *2023.07-present*, Guest editor, Electronics [SI:Biometric Recognition: Latest Advances and Prospects](https://www.mdpi.com/journal/electronics/special_issues/RIVJJ1NSVM).
-
+- 2021, Oral, IJCB,
+- 2019, Oral, IJCB,
+- 2018, Oral, IJCB,
 - *2018.01.29-2018.02.02*, Oral, IAPR/IEEE winter school on biometrics, Shenzhen, China.
 
 
 ## 💻 Internships
 - *2018.04 - 2018.06*, China Academy of Civil Aviation Science and Technology, Beijing.
 - *2017.03 - 2018.03*, Institute of Automation, Chinese Academy of Sciences, Beijing.
+
+
+
+## 🧑 Student

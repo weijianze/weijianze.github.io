@@ -81,9 +81,7 @@
 </div>
 
 
-```Neurocomputing 2019, IF:5.7``` [Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub), Jinfeng Yang, **Jianze Wei**, Yihua Shi
-
-
+- ```Neurocomputing 2019, IF:5.7``` [Accurate ROI localization and hierarchical hyper-sphere model for finger-vein recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231218309445?via%3Dihub), Jinfeng Yang, **Jianze Wei**, Yihua Shi  
 
 
 ## Transfer learning
@@ -115,5 +113,13 @@ Yafeng Zhan, **Jianze Wei** (co-first), Jian Liang, Xiu Xu, Ran He, Trevor W Rob
 
 ## Image retrieval
 
+- <div class="badge">ICME 2018</div>
 ```TCSVT 2023, IF:8.4``` [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
 Xingyu Gao; Zhenyu Chen; Boshen Zhang; **Jianze Wei**
+
+
+## 发明专利
+- ```发明专利``` 基于采集不确定性解耦的鲁棒虹膜识别方法，孙哲南; **卫建泽**; 王云龙
+- ```发明专利``` 基于设备独有性感知的异质虹膜识别方法，孙哲南; **卫建泽**; 王云龙
+- ```发明专利``` 基于Resize小波和SSLM模型的静脉识别方法，杨金锋; **卫建泽**; 师一华
+

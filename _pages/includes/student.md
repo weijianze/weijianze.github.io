@@ -1,16 +1,27 @@
 # 🧑 Students
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/pub/TIFS2022_CM.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Contextual Measures for Iris Recognition](https://ieeexplore.ieee.org/abstract/document/9947055)
-``IF: 6.8``
-
-**Jianze Wei**, Yunlong Wang, Huaibo Huang, Ran He, Zhenan Sun, Xingyu Gao  
-- The **first** Transformer model for iris recognition.
-- <u>Summary</u>: the paper integrates the advantages of visual Transformer and CNN, and proposes contextual measures (CM). The proposed CM regards each iris region as a potential microstructure and models the correlations between them for iris recognition.
-
-
+<div class="student-box">
+    <div class="student-box-image"><img src="self_img.png" alt="sym" width="100%"></div>
+    <div class="student-box-name"><a style="font-weight:bolder">Wangjing Feng</a></div>
+    <div class="student-box-name">Ph.D <a href='111'><img  style='height: 16px;' src="profile.svg"></a> <a href='https://scholar.google.com/citations?user=28LpcfIAAAAJ'><img  style='height: 14px;' src="github-mark.svg"></a> </div>
 </div>
+
+<div class="student-box">
+    <div class="student-box-image"><img src="self_img.png" alt="sym" width="100%"></div>
+    <div class="student-box-name"><a style="font-weight:bolder">Wangjing Feng</a></div>
+    <div class="student-box-name">Ph.D <a href='https://scholar.google.com/citations?user=28LpcfIAAAAJ'><img  style='height: 14px;' src="github-mark.svg"></a> </div>
 </div>
+
+<div class="student-box">
+    <div class="student-box-image"><img src="self_img.png" alt="sym" width="100%"></div>
+    <div class="student-box-name"><a style="font-weight:bolder">Wangjing Feng</a></div>
+    <div class="student-box-name">Ph.D <a href='https://scholar.google.com/citations?user=28LpcfIAAAAJ'><img  style='height: 14px;' src="github-mark.svg"></a> </div>
+</div>
+
+<div class="student-box">
+    <div class="student-box-image"><img src="self_img.png" alt="sym" width="100%"></div>
+    <div class="student-box-name"><a style="font-weight:bolder">Wangjing Feng</a></div>
+    <div class="student-box-name">Ph.D <a href='https://scholar.google.com/citations?user=28LpcfIAAAAJ'><img  style='height: 14px;' src="github-mark.svg"></a> </div>
+</div>
+

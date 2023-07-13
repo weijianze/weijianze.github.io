@@ -87,6 +87,40 @@
 
 }
 
+
+.student-box{
+    float:left;
+    max-width:100px;
+    margin: 10px;
+    
+    .student-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order:1;
+        img{
+            max-width: 100%;
+            box-shadow: 2px 2px 3px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .student-box-name{  
+        font-size:small;
+        text-align: center;
+        max-width: 100%;
+        order: 2;
+        margin-bottom: 5px;
+    }
+    
+    .student-box-text{
+        text-align: left;
+        max-width: 100%;
+        order: 2;
+    }
+}
+
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

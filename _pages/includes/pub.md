@@ -1,6 +1,24 @@
 
 # 📝 Publications 
 
+## Biometric segmentation 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/pub/TIFS2024_ISeGraph' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Faceted Knowledge-Driven Graph Neural Network for Iris Segmentation](https://ieeexplore.ieee.org/document/10555436)
+``IF: 6.8``
+
+**Jianze Wei**; Yunlong Wang; Xingyu Gao; Ran He; Zhenan Sun
+- A graph-based method with U-net structure for iris segmentation.
+- <u>Summary</u>: This paper utilizes the multi-faceted knowledge of the image, including  including visual similarity, positional correlation, and semantic consistency, to construct self-adaptive relationships for accurate iris segmentation.
+
+
+</div>
+</div>
+
+
+
 
 ## Biometric recognition
 

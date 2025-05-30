@@ -3,7 +3,7 @@
 
 ## Biometric segmentation 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/pub/TIFS2024_ISeGraph' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/pub/TIFS2025_BiTrans.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncertainty-Aware Bilateral Transformer for Accurate and Reliable Iris Segmentation](https://ieeexplore.ieee.org/document/11015908)
@@ -19,7 +19,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/pub/TIFS2024_ISeGraph' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/pub/TIFS2024_ISeGraph.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Faceted Knowledge-Driven Graph Neural Network for Iris Segmentation](https://ieeexplore.ieee.org/document/10555436)

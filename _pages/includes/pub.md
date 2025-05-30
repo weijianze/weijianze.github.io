@@ -3,7 +3,23 @@
 
 ## Biometric segmentation 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2022</div><img src='images/pub/TIFS2024_ISeGraph' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/pub/TIFS2024_ISeGraph' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uncertainty-Aware Bilateral Transformer for Accurate and Reliable Iris Segmentation](https://ieeexplore.ieee.org/document/11015908)
+``IF: 6.8``
+
+**Jianze Wei**; Xingyu Gao; Yunlong Wang; Ran He; Zhenan Sun
+- UTIris, a new iris dataset with high acquisition and annoation uncertainties, is built, and we provide rich annotations including two levels (rough- and precise-levels) of binary maps for iris masks, the circles of iris inner and outer boundaries, and curves of upper and lower eyelids to support future research on it.
+- A bilateral self-attention module is proposed to capture visual and spatial relationships explicitly. Based on the module, a new backbone named BiTrans is designed to reduce the negative influence of the acquisition uncertainty in iris segmentation.
+
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/pub/TIFS2024_ISeGraph' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Faceted Knowledge-Driven Graph Neural Network for Iris Segmentation](https://ieeexplore.ieee.org/document/10555436)
@@ -135,7 +151,7 @@ Yafeng Zhan, **Jianze Wei** (co-first), Jian Liang, Xiu Xu, Ran He, Trevor W Rob
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/pub/TMM2024_BGR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Deep Mutual Distillation for Unsupervised Domain Adaptation Person Re-Identification](https://ieeexplore.ieee.org/document/10678811)
+[Deep Mutual Distillation for Unsupervised Domain Adaptation Person Re-Identification](https://ieeexplore.ieee.org/document/10678811)
 ``IF: 8.4``
 
 Xingyu Gao; Zhenyu Chen; **Jianze Wei**; Rubo Wang; Zhijun Zhao 
@@ -146,10 +162,6 @@ branch serves as the teacher of the other to generate pseudolabels for its train
 
 </div>
 </div>
-
-- <img src="https://img.shields.io/badge/TCSVT%202024-IF%208.4-%20?style=flat-square&labelColor=00369F&color=E6E6E6
-"> [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
-Xingyu Gao; Zhenyu Chen; Boshen Zhang; **Jianze Wei**
 
 - <img src="https://img.shields.io/badge/TCSVT%202023-IF%208.4-%20?style=flat-square&labelColor=00369F&color=E6E6E6
 "> [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 

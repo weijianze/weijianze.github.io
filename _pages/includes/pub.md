@@ -114,10 +114,27 @@ Yafeng Zhan, **Jianze Wei** (co-first), Jian Liang, Xiu Xu, Ran He, Trevor W Rob
 
 ## Image retrieval
 
-- <img src="https://img.shields.io/badge/TCSVT%202023-IF%208.4-%20?style=flat-square&labelColor=00369F&color=E6E6E6
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/pub/TMM2024_BGR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Deep Mutual Distillation for Unsupervised Domain Adaptation Person Re-Identification](https://ieeexplore.ieee.org/document/10678811)
+``IF: 8.4``
+
+Xingyu Gao; Zhenyu Chen; **Jianze Wei**; Rubo Wang; Zhijun Zhao 
+- The **first** Transformer model for iris recognition.
+- <u>Summary</u>: the paper integrates the advantages of visual Transformer and CNN, and proposes contextual measures (CM). The proposed CM regards each iris region as a potential microstructure and models the correlations between them for iris recognition.
+
+
+</div>
+</div>
+
+- <img src="https://img.shields.io/badge/TCSVT%202024-IF%208.4-%20?style=flat-square&labelColor=00369F&color=E6E6E6
 "> [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
 Xingyu Gao; Zhenyu Chen; Boshen Zhang; **Jianze Wei**
 
+- <img src="https://img.shields.io/badge/TCSVT%202023-IF%208.4-%20?style=flat-square&labelColor=00369F&color=E6E6E6
+"> [Deep Learning to Hash with Application to Cross-View Nearest Neighbor Search](https://ieeexplore.ieee.org/document/10119236), 
+Xingyu Gao; Zhenyu Chen; Boshen Zhang; **Jianze Wei**
 
 
 ## 发明专利

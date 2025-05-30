@@ -121,8 +121,9 @@ Deep Mutual Distillation for Unsupervised Domain Adaptation Person Re-Identifica
 ``IF: 8.4``
 
 Xingyu Gao; Zhenyu Chen; **Jianze Wei**; Rubo Wang; Zhijun Zhao 
-- The **first** Transformer model for iris recognition.
-- <u>Summary</u>: the paper integrates the advantages of visual Transformer and CNN, and proposes contextual measures (CM). The proposed CM regards each iris region as a potential microstructure and models the correlations between them for iris recognition.
+-  deep mutual distillation (DMD) to generate reliable pseudo-labels for unsupervised domain adaptation person re-identification.
+- <u>Summary</u>: the paper proposes a deep mutual distillation (DMD) to generate reliable pseudo-labels for UDA person re-ID. The proposed DMD applies two parallel branches for feature extraction, and each
+branch serves as the teacher of the other to generate pseudolabels for its training.
 
 
 </div>

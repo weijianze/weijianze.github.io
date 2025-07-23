@@ -1,5 +1,6 @@
 # 🔥 News 
 
+- *2025.05*: 🎉 One journal paper was accepted to IEEE TIP [_Dual Retrieval Queries Fine-Tuning for Composed Image Retrieval_]()
 - *2025.05*: 🎉 One journal paper was accepted to IEEE TIFS [_Uncertainty-Aware Bilateral Transformer for Accurate and Reliable Iris Segmentation_](https://ieeexplore.ieee.org/document/11015908)
 - *2024.12*: 🎉 One journal paper was accepted to IEEE Signal Processing Letters [_IrisFormer A Dedicated Transformer Framework for Iris Recognition_](https://ieeexplore.ieee.org/abstract/document/10816462)
 - *2024.06*: 🎉 One journal paper was accepted to IEEE TIFS [_Multi-Faceted Knowledge-Driven Graph Neural Network for Iris Segmentation_](https://ieeexplore.ieee.org/document/10555436)

@@ -1,4 +1,6 @@
 # 🔥 News 
+- *2026.04*: 🎉 One journal paper was accepted to IEEE TIP [_Token Distillation for Dense Video Captioning_]
+- *2026.03*: 🎉 One journal paper was accepted to IEEE TIP [_Low-light Image Enhancement with Spatial-spectral Guidance_]
 - *2025.12*: 🎉 One journal paper was accepted to JAFC [_Deep Learning-Driven Discovery of Bee-Safe Isoxazoline Pesticide Candidates_](https://pubs.acs.org/doi/full/10.1021/acs.jafc.5c12299)
 - *2025.08*: 🎉 One Editorial was accepted to Electronics [_Biometric Recognition—Latest Advances and Prospects_](https://www.mdpi.com/2079-9292/14/15/3108))
 - *2025.05*: 🎉 One journal paper was accepted to IEEE TIP [_Dual Retrieval Queries Fine-Tuning for Composed Image Retrieval_]()

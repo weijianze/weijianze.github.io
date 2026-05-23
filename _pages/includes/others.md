@@ -1,8 +1,7 @@
-# Experience
+# 💼 Experience
 
-* 2024.12 - Present, Associate Professor, Institute of Microelectronics, Chinese Academy of Sciences, Beijing, China.
-
-* 2022.07 - 2024.12, Assistant Professor, Postdoctoral Researcher, Institute of Microelectronics, Chinese Academy of Sciences, Beijing, China.
+- 2024.12 - Present, Associate Professor, Institute of Microelectronics, Chinese Academy of Sciences, Beijing, China.
+- 2022.07 - 2024.12, Assistant Professor, Postdoctoral Researcher, Institute of Microelectronics, Chinese Academy of Sciences, Beijing, China.
   * Advisor: Prof. Xingyu Gao.
  
 # 🎓 Educations

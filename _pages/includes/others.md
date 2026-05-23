@@ -1,9 +1,16 @@
+# Experience
 
+* 2024.12 - Present, Associate Professor, Institute of Microelectronics, Chinese Academy of Sciences, Beijing, China.
+
+* 2022.07 - 2024.12, Assistant Professor, Postdoctoral Researcher, Institute of Microelectronics, Chinese Academy of Sciences, Beijing, China.
+  * Advisor: Prof. Xingyu Gao.
+ 
 # 🎓 Educations
 - *2018.09 - 2022.06*, Ph.D, University of Chinese Academy of Sciences, Beijing  
     - Studied in the Institute of Automation, Chinese Academy of Sciences (CASIA)
     - Supervised by Prof. Zhenan Sun and Prof. Ran He; thesis title: Research on lris lmage Preprocessing and Recognition forOpen-world Scenario 
 - *2015.09 - 2018.06*, Master, Civil Aviation University of China, Tianjin
+    - Supervised by Prof. Jinfeng Yang.
 - *2011.09 - 2015.06*, Undergraduate, Civil Aviation University of China, Tianjin
 
 # 💬 Activities and services
